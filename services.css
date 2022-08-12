@@ -1,0 +1,11 @@
+.background-services{
+    background: rgba(0, 0, 0, 0.7) url('services-backend.jpg');
+    background-size: cover;
+    background-blend-mode: darken;
+    /* height: 300px; */
+}
+.category-servises{
+    font-size: 40px;
+    font-family: 'Fascinate', cursive;
+    color: rgb(199, 193, 193);
+}
